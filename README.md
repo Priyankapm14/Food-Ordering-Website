@@ -1,0 +1,1 @@
+A Food Delivery Project that involves both frontend and backend development is a common project for web and mobile developers, combining both client-side (user interface) and server-side (data management) technologies. Here's an overview of how such a project might be structured and the typical components involved.
